@@ -8,7 +8,7 @@ double square(double x)
 
 void print_square(double x)
 {
-    cout << "The square of " << x << " is " << square(x) << "\n";
+    cout << "Square of " << x << " : " << square(x) << "\n";
 }
 
 int main()
