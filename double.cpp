@@ -1,10 +1,8 @@
 #include <iostream>
+#include "square.h"
+
 using namespace std;
 
-double square(double x)
-{
-    return x * x;
-}
 
 void print_square(double x)
 {
