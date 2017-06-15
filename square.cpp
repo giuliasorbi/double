@@ -1,7 +1,7 @@
 #include "square.h"
 
 
-double square(double x)
+double square(double y)
 {
-    return x * x;
+    return y * y;
 }
