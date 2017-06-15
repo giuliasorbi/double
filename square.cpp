@@ -1,7 +1,8 @@
+#include <cmath>
 #include "square.h"
 
 
 double square(double y)
 {
-    return y * y;
+    return std::pow(y, 2);
 }
